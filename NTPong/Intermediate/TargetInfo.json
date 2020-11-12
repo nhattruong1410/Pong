@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "NTPong",
+			"Path": "D:\\HighLevelDevelopment\\Assignment2\\GAM1516_010_NhatTruong\\NTPong\\Source\\NTPong.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "NTPongEditor",
+			"Path": "D:\\HighLevelDevelopment\\Assignment2\\GAM1516_010_NhatTruong\\NTPong\\Source\\NTPongEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

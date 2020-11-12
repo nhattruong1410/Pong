@@ -1,0 +1,7 @@
+D:\HighLevelDevelopment\Assignment2\GAM1516_010_NhatTruong\NTPong\Intermediate\Build\Win64\UE4Editor\Development\NTPong\Definitions.NTPong.h
+D:\HighLevelDevelopment\Assignment2\GAM1516_010_NhatTruong\NTPong\Source\NTPong\NTPongGameModeBase.h
+D:\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\HighLevelDevelopment\Assignment2\GAM1516_010_NhatTruong\NTPong\Intermediate\Build\Win64\UE4Editor\Inc\NTPong\NTPongGameModeBase.generated.h

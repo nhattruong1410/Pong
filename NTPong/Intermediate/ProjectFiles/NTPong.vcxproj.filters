@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\NTPong.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{2154E96B-C431-4C9F-B559-B0B7A790D349}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\NTPong.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\NTPongEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{B34C9555-4CEB-4476-82DF-D470C341B1B6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\NTPong">
+      <UniqueIdentifier>{49F2AE51-58E3-493E-BEFF-3692D0CDFE51}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\NTPong\NTPong.Build.cs">
+      <Filter>Source\NTPong</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\NTPong\NTPong.cpp">
+      <Filter>Source\NTPong</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NTPong\NTPong.h">
+      <Filter>Source\NTPong</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\NTPong\NTPongGameModeBase.cpp">
+      <Filter>Source\NTPong</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NTPong\NTPongGameModeBase.h">
+      <Filter>Source\NTPong</Filter>
+    </ClInclude>
+    <Filter Include="Source\NTPong\Private">
+      <UniqueIdentifier>{492E0FA0-32E3-4DF0-9119-3EAE5F31F803}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\NTPong\Private\AIPaddle.cpp">
+      <Filter>Source\NTPong\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NTPong\Private\Board.cpp">
+      <Filter>Source\NTPong\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NTPong\Private\PlayerPaddle.cpp">
+      <Filter>Source\NTPong\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\NTPong\Public">
+      <UniqueIdentifier>{E67ACF05-24C1-4309-A65F-3FD8E32CA5EE}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\NTPong\Public\AIPaddle.h">
+      <Filter>Source\NTPong\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\NTPong\Public\Board.h">
+      <Filter>Source\NTPong\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\NTPong\Public\PlayerPaddle.h">
+      <Filter>Source\NTPong\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

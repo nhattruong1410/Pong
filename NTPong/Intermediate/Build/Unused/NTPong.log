@@ -1,0 +1,12 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (D:\HighLevelDevelopment\Assignment2\GAM1516_010_NhatTruong).
+  Building NTPongEditor...
+  Using Visual Studio 2019 14.27.29112 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 12 processes...
+    [1/4] PlayerPaddle.cpp
+    [2/4] UE4Editor-NTPong.lib
+       Creating library D:\HighLevelDevelopment\Assignment2\GAM1516_010_NhatTruong\NTPong\Intermediate\Build\Win64\UE4Editor\Development\NTPong\UE4Editor-NTPong.lib and object D:\HighLevelDevelopment\Assignment2\GAM1516_010_NhatTruong\NTPong\Intermediate\Build\Win64\UE4Editor\Development\NTPong\UE4Editor-NTPong.exp
+    [3/4] UE4Editor-NTPong.dll
+       Creating library D:\HighLevelDevelopment\Assignment2\GAM1516_010_NhatTruong\NTPong\Intermediate\Build\Win64\UE4Editor\Development\NTPong\UE4Editor-NTPong.suppressed.lib and object D:\HighLevelDevelopment\Assignment2\GAM1516_010_NhatTruong\NTPong\Intermediate\Build\Win64\UE4Editor\Development\NTPong\UE4Editor-NTPong.suppressed.exp
+    [4/4] NTPongEditor.target
+  Total time in Parallel executor: 155.46 seconds
+  Total execution time: 158.89 seconds
